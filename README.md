@@ -29,4 +29,3 @@ A modern, user-friendly YouTube and video downloader application built with Pyth
 2. Run the installer and follow the setup wizard
 3. Launch the application from the desktop shortcut or Start menu
 
-#### Option 2: Run from Source
