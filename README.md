@@ -24,7 +24,6 @@ A modern, user-friendly YouTube and video downloader application built with Pyth
 
 ### Installation
 
-#### Option 1: Download Installer (Recommended)
 1. Download `VideoDownloaderSetup.exe` from the repo. Click on the VideoDownloaderSetup.exe file and download the raw file.
 2. Run the installer and follow the setup wizard
 3. Launch the application from the desktop shortcut or Start menu
