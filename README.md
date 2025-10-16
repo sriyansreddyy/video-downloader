@@ -14,13 +14,6 @@ A modern, user-friendly YouTube and video downloader application built with Pyth
 - Smart File Management: Automatic timestamped filenames prevent overwrites
 - Fast Processing: Optimized for speed with concurrent fragment downloading
 
-## Quick Start
-
-### Prerequisites
-
-- Windows 10/11
-- Python 3.7+ (for development)
-- Internet connection for online video downloads
 
 ### Installation
 
